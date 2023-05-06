@@ -28,17 +28,13 @@
     category: "world"
     
 '2003-01-01':
-  - name: "🎾 Compete in Margaret Court Cup, in Albury, NSW."
+  - name: "🎾 Compete in Margaret Court Cup"
     desc: "Howick tennis club went to Australia to compete. Played in Albury, and got the train to Melbourne to finish the trip by attending the Australian Open."
     category: "sport"
  
 '2003-02-01':
   - name: "I start at Farm Cove Intermediate"
     category: "school"
-    
-'2003-03-20':
-  - name: "The Iraq War starts"
-    category: "world"
     
 '2004-05-01':
   - name: "Cindy moves in 🐈"
@@ -82,11 +78,6 @@
   - name: "School ball season"
     desc: "Went with large group, travelled on party bus to ball. Attended afterball. Dropped back at small Countdown Highland Park at 2am. Alex's dad drives off as passenger still exiting vehicle."
     category: "school"
-    
-'2009-08-10':
-  - name: "Introduction to parties"
-    desc: "Threw up out the window as Sarah Price's vehicle pootered up Prince Regent Drive. Had had a roast for dinner."
-    category: "social"
 
 '2009-10-01':
   - name: "Awards for academic achievement"
@@ -94,12 +85,12 @@
     category: "school"
     
 '2009-11-20':
-  - name: "Accepted into LLB and BA at University of Auckland (UoA)"
+  - name: "Accepted into LLB and BA"
     desc: "Oblivious to the 5 years that would lie ahead."
     category: "school"
 
 '2009-11-30':
-  - name: "I graduate from Pakuranga College"
+  - name: "Graduate from Pakuranga College"
     category: "school"
     
 '2010-01-15':
@@ -155,7 +146,7 @@
     category: "travel"
 
 '2013-10-20':
-  - name: "💔 Cindy, family cat, passes away 🐈"
+  - name: "💔 Cindy passes away 🐈"
     category: "pets"
     
 '2013-10-24':
@@ -164,7 +155,7 @@
     tags: ["grandma"]
     
 '2013-10-27':
-  - name: "Adopted Theo from SPCA 🐈"
+  - name: "Adopted Theo 🐈"
     category: "pets"
     
 '2014-02-20':
@@ -191,12 +182,12 @@
     tags: ["Jason"]
     
 '2015-01-15':
-  - name: "My first day at Assurity"
+  - name: "First day at Assurity"
     desc: "Stayed in Wellington for a month for training. Came back to Auckland to begin as 'consultant'. Started work at Ports of Auckland 2 months later. Stayed till creepy Project Manager was creepy enough to complain, and was then on 'bench' for 5 months. Did a week at NZME with dysfunctional colleagues, and finally landed at Freightways, labelled a BA."
     category: "work"
 
 '2015-05-04':
-  - name: "I graduate from UoA"
+  - name: "Graduate from UoA"
     desc: "Early start with function in Government House at UoA. Memorable day due in part to the brilliant regalia (pink and blue), walk from uni grounds to Aotea Centre with Chris, photoshoot, and meal at the Hilton with parents and godparents."
     category: "school"
     tags: ["Chris"]
@@ -207,7 +198,7 @@
     category: "family"
     
 '2015-06-25':
-  - name: "Move into Katie's family home"
+  - name: "Move in with Katie's"
     desc: "Tensions with my father running high, I move into Katie's house to get away from it."
     category: "self"
     
@@ -254,8 +245,8 @@
     tags: ["Ruth"]
 
 '2016-04-20':
-  - name: "Go karting"
-    desc: "Go karting with Chris in East Tamaki. I lost, and came away with the skin missing from my tailbone. I had hesitations over Freightways, however Chris suggested I just 'give it a go'."
+  - name: "Go-karting"
+    desc: "Go-karting with Chris in East Tamaki. I lost, and came away with the skin missing from my tailbone. I had hesitations over Freightways, however Chris suggested I just 'give it a go'."
     category: "work"
     tags: ["Chris"]
  
@@ -277,14 +268,10 @@
     tags: ["Mum", "Katie", "Chris", "Ruth", "Mark"]
 
 '2016-08-10':
-  - name: "Return to work after bereavement leave"
+  - name: "Return to work"
     desc: "First day back, spilt porridge all over chair and floor. Evacuated from room for tea, and returned shortly after to new chair and no porridge in sight. A sign of a good workplace and good people."
     category: "work"
     tags: ["Mark"]
-    
-'2016-11-08':
-  - name: "Donald Trump becomes U.S. President"
-    category: "world"
     
 '2017-05-20':
   - name: "Raro with Anne and Richard"
@@ -316,12 +303,12 @@
     tags: ["Merusha"]
     
 '2018-09-16':
-  - name: "Alex engaged to Steven in Montenegro"
+  - name: "Alex engaged to Steven"
     category: "relationships"
     tags: ["Alex"]
     
 '2018-03-09':
-  - name: "Turned 26."
+  - name: "Turned 26"
     desc: "Godparents came down from Whangarei, bringing beetroot birthday cake to celebrate the occasion. Had Indian in town, with Alex as my date and social saviour."
     category: "self"
     tags: ["Alex", "godparents"]
@@ -332,7 +319,7 @@
     category: "travel"
     
 '2019-10-30':
-  - name: "I went to the GC with Katie and Alex"
+  - name: "Trip to the GC with Katie and Alex"
     desc: "I wasn't sure I deserved this trip after 3 weeks in Nepal, but somehow ended up organising it with Katie and Alex, and off we went! Highlight was smoothie bowl cafe which we went to repeatedly."
     category: "travel"
     
@@ -352,7 +339,7 @@
     tags: ["David", "Ruth", "Kristy", "Rob"]
 
 '2020-04-10':
-  - name: "🏠 COVID-19 goes berserk, worldwide pandemic declared"
+  - name: "🏠 COVID-19, worldwide pandemic declared"
     desc: "Across the world, nations go into 'lockdown' to stop the spread of the virus. NZ would be in lockdown on and off for the next 2 years."
     category: "world"
     
@@ -370,21 +357,22 @@
     category: "pets"
     
 '2021-01-22':
-  - name: "Hit in the face with a door at work. Eyebrow would never grow the same."
+  - name: "Hit in the face with a door at work"
+    desc: "Eyebrow would never grow the same."
     category: "work"
     
 '2021-04-24':
-  - name: "Went to a ball with Ruth"
+  - name: "Ball with Ruth"
     category: "social"
     tags: ["Ruth"]
     
 '2021-05-14':
-  - name: "Went to a Queenstown with Ruth and Kristy"
+  - name: "Trip to Queenstown with Ruth and Kristy"
     category: "social"
     tags: ["Ruth", "Kristy"]
     
 '2021-09-24':
-  - name: "Alex's daughter Sienna is born"
+  - name: "Sienna is born"
     category: "relationships"
     tags: ["Alex", "Sienna"]
     
@@ -394,7 +382,7 @@
     category: "work"
     
 '2021-09-30':
-  - name: "I meet Sienna, and farewell Alex before going to London"
+  - name: "I meet Sienna"
     category: "relationships"
     tags: ["Alex", "Sienna"]
 
@@ -404,7 +392,7 @@
     category: "self"
     
 '2021-11-06':
-  - name: "Day trip to Cambridge with Kimantha"
+  - name: "Trip to Cambridge"
     desc: "Love Cambridge. Went punting with a real red-head that had XL feet."
     category: "travel"
     tags: ["Kimantha"]
@@ -415,8 +403,8 @@
     tags: ["Merusha"]
     
 '2021-12-02':
-  - name: "5 days in Belgium"
-    desc: "Arrived in Brussels, went to Ghent and of course Bruges. Got some great chocolate to share with Matt and Donna from The Chocolate Line."
+  - name: "Trip in Belgium"
+    desc: "Arrived in Brussels, went to Ghent and of course Bruges. Got some great chocolate to share with Matt and Donna from The Chocolate Line. Left early due to boredom."
     category: "travel"
     
 '2021-12-08':
@@ -425,7 +413,7 @@
     category: "work"
     
 '2021-12-11':
-  - name: "Weekend in Edinburgh"
+  - name: "Trip to Edinburgh"
     category: "travel"
     
 '2021-12-15':
@@ -440,16 +428,16 @@
     tags: ["Kimantha"]
     
 '2021-12-28':
-  - name: "I went to Cabaret show at Kit Kat Club"
+  - name: "Cabaret at Kit Kat Club"
     desc: "Starred Eddie Redmayne!"
     category: "self"
     
 '2021-12-30':
-  - name: "I went to Cotswolds, Bath, Bristol and the New Forest"
+  - name: "Trip to Cotswolds, Bath, Bristol and the New Forest"
     category: "travel"
     
 '2022-01-14':
-  - name: "Joined Paddington Squash club"
+  - name: "Joined Paddington Squash"
     desc: "Met Juliette who invited me to join Middlesex squash ladies league."
     category: "sport"
     
@@ -472,7 +460,8 @@
     category: "travel"
     
 '2022-04-16':
-  - name: "Day trip to Kent (Canterbury and Rochester)"
+  - name: "Day trip to Kent"
+    desc: "Canterbury and Rochester"
     category: "travel"
     tags: ["Kimantha"]
     
@@ -481,8 +470,8 @@
     category: "pets"
     
 '2022-04-28':
-  - name: "Saw Jodie Comer on stage in Prima Facie at Harold Pinter Theatre"
-    desc: "Got haircut, then went to The Barbary, then to the show!"
+  - name: "Prima Facie"
+    desc: "Got haircut, then went to The Barbary, then to the show! Jodie Comer at Harold Pinter Theatre"
     category: "self"
     
 '2022-05-05':
@@ -496,12 +485,12 @@
     category: "travel"
     
 '2022-06-04':
-  - name: "Queen's Jubilee celebrations across the UK"
+  - name: "Queen's Jubilee"
     desc: "Got prime spot by the mall, after waiting hours. Saw Kate, George, Charlotte, Louis and Camilla in a horsedrawn carriage. Worth the wait!"
     category: "world"
 
 '2022-06-10':
-  - name: "Day trip to Seven Sisters in East Sussex"
+  - name: "Day trip to Seven Sisters"
     category: "travel"
     
 '2022-06-11':
@@ -510,17 +499,17 @@
     category: "self"
     
 '2022-06-30':
-  - name: "I go on trip to Salisbury, Exeter, Dartmoor National Park, and Plymouth"
+  - name: "Trip to Salisbury, Exeter, Dartmoor National Park, and Plymouth"
     desc: "Salisbury Cathedral was breathtaking - my favourite cathedral. Exeter was student-y and rainy, Dartmoor was brooding and isolating, and Plymouth... dire. Thank goodness work was quiet and I could do this trip."
     category: "travel"
     
 '2022-07-19':
-  - name: "Rob visiting London"
+  - name: "Rob in London"
     desc: "Had brunch and dinner with Rob while he was visiting London. Relieved to see a familar face."
     category: "social"
     
 '2022-07-31':
-  - name: "Final day at Metapack"
+  - name: "Last day at Metapack"
     desc: "Lovely last day, and nice sending off gift (cooking class at Leith's). Turns out I had gotten to know people."
     category: "relationships"
     
@@ -550,7 +539,7 @@
     tags: ["Katie"]
     
 '2022-10-08':
-  - name: "I go to Porto"
+  - name: "Trip to Porto"
     category: "travel"
     tags: ["Alex J"]
     
@@ -571,18 +560,18 @@
     tags: ["Alex J"]
  
 '2022-11-10':
-  - name: "Finished LOTR in 2 weeks"
+  - name: "Finished LOTR"
     category: "self"
     
 '2022-11-25':
-  - name: "I go to Lithuania for work"
+  - name: "Trip to New Forest"
     desc: "Roadtrip to the New Forest via Winchester."
     category: "travel"
     tags: ["Alex J"]
     
 '2022-12-02':
-  - name: "Phantom of the Opera in the West End"
-    desc: "Had no idea how creepy the plotline was. Stunning music."
+  - name: "Phantom of the Opera"
+    desc: "Had no idea how creepy the plotline was. Stunning music. West end."
     category: "social"
     tags: ["Alex J"]
     
@@ -593,33 +582,34 @@
     tags: ["Alex J"]
     
 '2022-12-12':
-  - name: "Day of proper snow in London"
+  - name: "Snow Day!"
     category: "self"
     
 '2022-12-22':
-  - name: "I spend Christmas with Alex's family in Ashbourne"
-    desc: "Lovely extended trip, sampling the Peak District and various pubs along the way. Made a successful pavlova and tira misu."
+  - name: "Christmas with Alex's family"
+    desc: "Lovely extended trip to Ashbourne, sampling the Peak District and various pubs along the way. Made a successful pavlova and tira misu."
     category: "self"
     tags: ["Alex J"]
     
 '2022-12-29':
-  - name: "Trip to Liverpool and onto Chester"
+  - name: "Trip to Liverpool and Chester"
     desc: "Liverpool won my heart immediately. It had a palpable vibe and felt down to earth. Beatles bar was sensational, and the live musician was the best I'd ever seen. We had a day in Chester, which was nice and felt historic, and we did the walk to cross the Welsh border. I wondered what people in these smaller cities did for work."
     category: "travel"
     tags: ["Alex J"]
 
 '2023-01-12':
-  - name: "Attended read-through for Not Going Out"
+  - name: "Not Going Out read-through"
     desc: "Front row seats, watching Lee Mack and cast read through lines in small theatre above Turnham Green pub. Amazing."
     category: "social"
     tags: ["Alex J"]
     
 '2023-01-14':
-  - name: "'Fabulous Fish' cooking class at Leith's"
+  - name: "Leith's cooking class"
+    desc: "Fabulous Fish, gift from Metapack"
     category: "self"
 
 '2023-01-21':
-  - name: "Day trip to Oxford"
+  - name: "Trip to Oxford"
     category: "travel"
     tags: ["Alex J"]
     
@@ -628,7 +618,7 @@
     category: "work"
 
 '2023-02-04':
-  - name: "Attended Graham Norton recording"
+  - name: "Graham Norton"
     desc: "Guests included Michelle Yeoh and Austin Butler. Singer Mimi Webb."
     category: "social"
     tags: ["Alex J"]

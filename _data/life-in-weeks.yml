@@ -6,6 +6,10 @@
 '1997-03-01':
   - name: "I start at Sunnyhills Primary School"
     category: "school"
+
+'1998-10-21':
+  - name: "Gameboy colour released"
+    category: "world"
  
 '2000-01-01':
   - name: "Y2K"

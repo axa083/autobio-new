@@ -153,6 +153,10 @@
   - name: "💔 My grandma passes away at 92"
     category: "family"
     tags: ["grandma"]
+
+'2013-10-30':
+  - name: "Adopted Theo 🐈"
+    category: "pets"
     
 '2014-02-20':
   - name: "Went to L.A."

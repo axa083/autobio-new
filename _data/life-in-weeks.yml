@@ -145,7 +145,7 @@
   - name: "Sydney with Alex"
     category: "travel"
 
-'2013-10-20':
+'2013-10-17':
   - name: "💔 Cindy passes away 🐈"
     category: "pets"
     
@@ -391,7 +391,7 @@
     desc: "Arriving on a grey Friday morning, picked up by Matt (amazing), and would stay with Matt and Donna for 3 months."
     category: "self"
     
-'2021-11-06':
+'2021-11-03':
   - name: "Trip to Cambridge"
     desc: "Love Cambridge. Went punting with a real red-head that had XL feet."
     category: "travel"
@@ -407,7 +407,7 @@
     desc: "Arrived in Brussels, went to Ghent and of course Bruges. Got some great chocolate to share with Matt and Donna from The Chocolate Line. Left early due to boredom."
     category: "travel"
     
-'2021-12-08':
+'2021-12-06':
   - name: "Work Christmas party"
     desc: "Metapack Christmas party. Event was pizza making at Pizza Express, for which I won best pizza. Of course it was best, it didn't have slabs of ham all over it."
     category: "work"
@@ -441,7 +441,7 @@
     desc: "Met Juliette who invited me to join Middlesex squash ladies league."
     category: "sport"
     
-'2022-01-12':
+'2022-01-20':
   - name: "Moved into Harriet's"
     category: "self"
     
@@ -479,7 +479,7 @@
     category: "relationships"
     tags: ["Alex"]
     
-'2022-05-10':
+'2022-05-12':
   - name: "I went to Turkey"
     desc: "Spent 3 weeks travelling all over Turkey, with an Intrepid Tour. Met amazing people. Much needed extended holiday."
     category: "travel"
@@ -549,7 +549,7 @@
     category: "social"
     tags: ["Alex J"]
     
-'2022-10-15':
+'2022-10-20':
   - name: "I move to Kilburn Park Road flat"
     category: "self"
     

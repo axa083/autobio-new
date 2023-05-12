@@ -6,4 +6,4 @@ start_date	: 1992-03-09
 end_year		: 2092
 ---
 
-<p>My life, where each week I've been alive is a little box. When meaningful things happen (for both better and worse) I make a note of it so I can remember how much of life is influenced by these factors. </p>
+<p>My copy of Buster Benson's <a href="https://busterbenson.com/life-in-weeks"><b>'Life in Weeks'</b></a>. Each week of life is represented by a little box. Significant events get entered into each box, creating a way to reflect on the past, and to also observe the emptiness of the unfilled boxes.</p>

@@ -668,6 +668,16 @@
   - name: "Coronation of King Charles"
     category: "world"
 
+'2023-05-17':
+  - name: "Trip to Ireland"
+    desc: "Flew to Cork and visited the South West of Ireland. Deemed Cork an Irish Liverpool."
+    category: "travel"
+
+'2023-05-21':
+  - name: "Phone stolen"
+    desc: "Phone dropped on Ealing Broadway tracks, only to be stolen 1 hour later by thief from Hayes. Tracked my phone to Cransford Park, and ubered there in the hopes the phone had been dumped. Four tracksuited men loitering with my phone did not please me. British Transport Police were to follow up. Not ideal timing with job search underway, and EE system glitching rendering me SIM-less."
+    category: "self"
+
 '2092-03-09':
   - name: "Goal: touch my toes on my 100th birthday"
     category: "goal"

@@ -475,7 +475,7 @@
     
 '2022-04-28':
   - name: "Prima Facie"
-    desc: "Got haircut, then went to The Barbary, then to the show! Jodie Comer at Harold Pinter Theatre"
+    desc: "Got haircut, then went to The Barbary, then to the show! Jodie Comer at Harold Pinter Theatre."
     category: "self"
     
 '2022-05-05':
@@ -511,6 +511,7 @@
   - name: "Rob in London"
     desc: "Had brunch and dinner with Rob while he was visiting London. Relieved to see a familar face."
     category: "social"
+    tags: ["Rob"]
     
 '2022-07-31':
   - name: "Last day at Metapack"
@@ -587,6 +588,7 @@
     
 '2022-12-12':
   - name: "Snow Day!"
+    desc: "Snow in London? No way."
     category: "self"
     
 '2022-12-22':
@@ -669,8 +671,8 @@
     category: "world"
 
 '2023-05-17':
-  - name: "Trip to Ireland"
-    desc: "Flew to Cork and visited the South West of Ireland. Deemed Cork an Irish Liverpool."
+  - name: "Trip to Cork"
+    desc: "Visited the South West of Ireland. Deemed Cork an Irish Liverpool."
     category: "travel"
 
 '2023-05-21':
@@ -678,6 +680,71 @@
     desc: "Phone dropped on Ealing Broadway tracks, only to be stolen 1 hour later by thief from Hayes. Tracked my phone to Cransford Park, and ubered there in the hopes the phone had been dumped. Four tracksuited men loitering with my phone did not please me. British Transport Police were to follow up. Not ideal timing with job search underway, and EE system glitching rendering me SIM-less."
     category: "self"
 
-'2092-03-09':
-  - name: "Goal: touch my toes on my 100th birthday"
-    category: "goal"
+'2023-06-12':
+  - name: "Began work at Tesco"
+    category: "work"
+
+'2023-07-15':
+  - name: "Trip to Newcastle"
+    desc: "Went to Newcastle via Durham. Durham is utterly stunning and the street brass bands were sensational. Newcastle was not special."
+    category: "travel"
+
+'2023-08-19':
+  - name: "Trip to Norwich"
+    desc: "Home of Alan Partridge."
+    category: "travel"
+
+'2023-08-25':
+  - name: "Watched All Blacks v Springboks at Twickenham"
+    desc: "First time at Twickenham. Very exciting."
+    category: "social"
+    tags: ["Alex J"]
+
+'2023-09-16':
+  - name: "Trip to Nottingham and Lincoln"
+    desc: "Per Pal's recommendation."
+    category: "travel"
+
+'2023-09-19':
+  - name: "Holiday in NZ"
+    desc: "Flew to NZ to attend Katie and Merusha's weddings. And Sienna's second birthday. Two years since in NZ."
+    category: "travel"
+    tags: ["Alex", "Katie", "Merusha", "Kristy", "Ruth", "David", "Rob"]
+
+'2023-10-27':
+  - name: "Private Lives show"
+    desc: "Saw Patricia Hodge live!!! Loved it. She's mesmerising. Had Sushidog beforehand - ever classy."
+    category: "self"
+
+'2023-11-03':
+  - name: "Holiday in Dublin"
+    desc: "Dublin was prettier than expected. Didn't try Guinness which was foolish."
+    category: "travel"
+
+'2023-11-11':
+  - name: "Lyonesse show"
+    desc: "Saw Kristin Scott Thomas and Lily James. KST is one-of-a-kind. The show did not get good reviews however. Had beer at Nellie Dean beforehand - still ever classy."
+    category: "self"
+
+'2023-11-18':
+  - name: "Cafe Cecilia"
+    desc: "Not *that* noteworthy, but Emily and I had waited a year to get a booking."
+    category: "social"
+    tags: ["Emily"]
+
+'2023-11-18':
+  - name: "Somerset House Ice-skating"
+    desc: "First time ice-skating. Definitely noteworthy!."
+    category: "social"
+    tags: ["Cece", "Mariet"]
+
+'2023-12-02':
+  - name: "Trip to Manchester"
+    desc: "Beautiful crisp winter day, with the potential for snow. Stunning scenery on the way there. Amazing cookie. Not much personality."
+    category: "travel"
+
+'2023-12-08':
+  - name: "Holiday in Budapest"
+    desc: "Relax, wander, (Turkish) bathe."
+    category: "travel"
+

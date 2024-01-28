@@ -680,6 +680,11 @@
     desc: "Phone dropped on Ealing Broadway tracks, only to be stolen 1 hour later by thief from Hayes. Tracked my phone to Cransford Park, and ubered there in the hopes the phone had been dumped. Four tracksuited men loitering with my phone did not please me. British Transport Police were to follow up. Not ideal timing with job search underway, and EE system glitching rendering me SIM-less."
     category: "self"
 
+'2023-06-01':
+  - name: "Kimantha's daughter Tayah is born."
+    category: "relationships"
+    tags: ["Kimantha"]
+
 '2023-06-12':
   - name: "Began work at Tesco"
     category: "work"

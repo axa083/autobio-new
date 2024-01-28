@@ -743,8 +743,34 @@
     desc: "Beautiful crisp winter day, with the potential for snow. Stunning scenery on the way there. Amazing cookie. Not much personality."
     category: "travel"
 
+'2023-12-06':
+  - name: "True Love movie at BFI"
+    desc: "Making use of my membership..."
+    category: "self"
+
 '2023-12-08':
   - name: "Holiday in Budapest"
     desc: "Relax, wander, (Turkish) bathe."
     category: "travel"
+
+'2023-12-16':
+  - name: "Lee Mack's The Unfriend"
+    desc: "Seeing Lee Mack in person again in a show! Although I left halfway through - it was terrible. The writing, theh acting from the rest of the cast. The accent. Sadly, very bad."
+    category: "self"
+
+'2023-12-23':
+  - name: "Housesit in Godalming"
+    desc: "Looking after Leo the cat in the semi-countryside for a week. Little collage, down the road from where The Holiday was filmed."
+    category: "self"
+
+'2024-01-04':
+  - name: "Housesit in South Ealing"
+    desc: "A three week stay with four cats, Louie, Freddie, Sebastian and Oscar. I didn't want to leave."
+    category: "self"
+
+'2024-01-14':
+  - name: "Saltine with Emily"
+    desc: "Amazing desserts. Highbury, need to explore more!"
+    category: "social"
+    tags: ["Emily"]
 

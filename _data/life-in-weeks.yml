@@ -790,3 +790,13 @@
     category: "social"
     tags: ["Sarah Scott"]
 
+'2024-03-04':
+  - name: "Trip to Italy"
+    desc: "Naples then to Rome. Rome, great food. Great weather."
+    category: "travel"
+
+'2024-03-16':
+  - name: "Trip to Warwick and Birmingham"
+    desc: "Lord Leycester was lovely. Birmingham, not lovely."
+    category: "travel"
+

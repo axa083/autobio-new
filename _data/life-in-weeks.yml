@@ -800,3 +800,27 @@
     desc: "Lord Leycester was lovely. Birmingham, not lovely."
     category: "travel"
 
+'2024-06-06':
+  - name: "Trip to Paris to see Ruth"
+    desc: "Ruth's 50th! One night in Paris."
+    category: "travel"
+
+'2024-08-05':
+  - name: "Trip to Copenhagen"
+    desc: "Time to see what Denmark is like. Lots of pretty people. Great genes."
+    category: "travel"
+
+'2024-10-10':
+  - name: "Steve Coogan!"
+    desc: "Dr Strangelove was amazing. An incredibly talented person."
+    category: "self"
+
+'2025-03-09':
+  - name: "Another birthday"
+    desc: "A palindromatic 33. Reconnaissance trip to Cambridge."
+    category: "self"
+
+'2025-03-29':
+  - name: "A PB"
+    desc: "24.32. Who'd have thought I'd get sub-25!"
+    category: "self"

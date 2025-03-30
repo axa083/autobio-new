@@ -824,3 +824,8 @@
   - name: "A PB"
     desc: "24.32. Who'd have thought I'd get sub-25!"
     category: "self"
+
+'2025-04-28':
+  - name: "A new job"
+    desc: "After what feels like a century, I finally migrate from product to programme."
+    category: "work"
